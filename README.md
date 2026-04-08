@@ -51,6 +51,24 @@ Finally, a fully functional integration for the **Skydance WZ-SPI** (Tuya) digit
 5. Make sure the file is named exactly `wz-spi.js`.
 ---
 
+### ⚠️ Important: Register the Converter
+If you used **Option 2** or **Option 3** (manual file upload), Zigbee2MQTT won't know about the new file until you register it. You can do this in two ways:
+
+#### A) Via Zigbee2MQTT Web UI:
+1. Go to **Settings** -> **External converters**.
+2. Type `wz-spi.js` into the text box and click **Submit**.
+3. Restart Zigbee2MQTT.
+
+#### B) Manually via configuration.yaml:
+If you prefer editing code, open your `configuration.yaml` file (usually located in `/config/zigbee2mqtt/`) and add the following lines:
+
+```yaml
+external_converters:
+  - wz-spi.js
+```
+
+Note: If you already have other external converters, just add - wz-spi.js as a new line under the existing ones.
+
 ## 🏁 Finalizing the Setup
 1. Go to **Settings** -> **Add-ons** -> **Zigbee2MQTT** and click **Restart**.
 2. Open the **Zigbee2MQTT** menu, go to **Devices**, click **Permit Join**, and pair your WZ-SPI controller.
