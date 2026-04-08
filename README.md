@@ -13,6 +13,12 @@ Finally, a fully functional integration for the **Skydance WZ-SPI** (Tuya) digit
 * **Custom Effects:** Create your own magic with a **4-color custom effect selector**.
 * **Technical Precision:** Direct control over **Pixel Count** (up to 1000), chip settings and music mode support.
 
+<img width="1043" height="704" alt="image" src="https://github.com/user-attachments/assets/5fccf041-f9c4-4dd9-8a9b-df2f52023fb0" />
+
+<img width="1053" height="615" alt="image" src="https://github.com/user-attachments/assets/e820bb0f-9290-4cf0-82b6-fe8f9350570b" />
+
+<img width="1055" height="690" alt="image" src="https://github.com/user-attachments/assets/06b86d43-a93c-4ce0-953e-9f6caabf4f94" />
+
 ---
 
 ## 🛠️ Installation Guide
