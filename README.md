@@ -8,7 +8,7 @@ Finally, a fully functional integration for the **Skydance WZ-SPI** (Tuya) digit
 
 ## ✨ Key Features
 * **Full Lighting Control:** Smooth brightness, color selection, and saturation.
-* **Chip Support:** Optimized for **SK6812 (RGBW)**, **WS2814 (RGBW)**, **WS2811 (RGB)** and others.
+* **Chip Support:** Optimized for **SK6812 (RGBW)**, **WS2814 (RGBW)**, and **WS2811 (RGB)**. *(Tested & verified with SK6812 and WS2814)*
 * **Dynamic Effects:** Access to all built-in effects + **Effect Speed** control.
 * **Custom Effects:** Create your own magic with a **4-color custom effect selector**.
 * **Technical Precision:** Direct control over **Pixel Count** (up to 1000), chip settings and music mode support.
