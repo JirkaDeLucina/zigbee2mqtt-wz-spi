@@ -86,4 +86,20 @@ I am an independent developer who believes in **justice, love, and goodness**. I
 [![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/JirkaDeLucina)
 
 ---
+
+## ⚖️ License & Commercial Use
+
+This project is licensed under the **CC BY-NC 4.0 (Creative Commons Attribution-NonCommercial)**. 
+
+- **Personal Use:** Free and encouraged! Feel free to use it in your home automation.
+- **Commercial Use:** Use of this code in commercial products, services, or for-profit installations is **strictly prohibited** without a separate commercial license.
+
+**Are you a company or professional installer?**
+If you wish to use this converter for commercial purposes, please contact me directly to negotiate a commercial license. I am open to cooperation!
+
+📧 **Contact:**
+If you wish to use this converter for commercial purposes, please **[open a new Issue](https://github.com/JirkaDeLucina/zigbee2mqtt-wz-spi/issues)** in this repository with the subject "Commercial Inquiry" or send me a message via my **[Buy Me a Coffee profile](https://www.buymeacoffee.com/JirkaDeLucina)**. 
+
+I will get back to you as soon as possible to discuss the details.
+
 *Created with ❤️ by JirkaDeLucina*
