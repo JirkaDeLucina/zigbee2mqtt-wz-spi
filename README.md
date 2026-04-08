@@ -19,6 +19,10 @@ Finally, a fully functional integration for the **Skydance WZ-SPI** (Tuya) digit
 
 <img width="1055" height="690" alt="image" src="https://github.com/user-attachments/assets/06b86d43-a93c-4ce0-953e-9f6caabf4f94" />
 
+<img width="1984" height="1120" alt="image" src="https://github.com/user-attachments/assets/dcf7bfa4-b986-49c4-9a5f-1f30a3e6ed19" />
+
+<img width="1984" height="1120" alt="image" src="https://github.com/user-attachments/assets/3f27bed3-65fe-4760-84e5-7c55e4b34b93" />
+
 ---
 
 ## 🛠️ Installation Guide
